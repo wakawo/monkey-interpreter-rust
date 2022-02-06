@@ -1,0 +1,9 @@
+[package]
+name = "monkey-interpreter-rust"
+version = "0.1.0"
+authors = ["kohei_wakamatsu_xa <wakamatsu_kohei@cyberagent.co.jp>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
